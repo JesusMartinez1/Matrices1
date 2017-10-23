@@ -1,7 +1,6 @@
-#include <iostream>
+#include <stdio.h>
 
-
-	int i,j,A[3][3],B[3][3],C[3][3];
+int i,j,A[3][3],B[3][3],C[3][3];
 int main()
  {
   
